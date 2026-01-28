@@ -13,7 +13,7 @@ authors = [{ name = "Lars de Ridder", email = "lars@xithing.io" }]
 dependencies = ["WTForms>=2.0"]
 
 [project.urls]
-Homepage = "https://example.com"
+Homepage = "https://github.com/larsderidder/wtforms-conditional-validator"
 
 [project.optional-dependencies]
 dev = ["pytest>=7.0", "black>=24.0"]
